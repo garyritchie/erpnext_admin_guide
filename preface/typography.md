@@ -34,7 +34,7 @@ When describing actions to take in a set of instructions, button clicks are in *
 
 The names of programs or utilities that are referenced in regular text will be in fixed width font, such as `sudo`, `su`, `cd`, or `bench`.
 
-## 1.4.6 Path Navigation
+### 1.4.6 Path Navigation
 
 When working inside of ERPNext, the Administrators guide will give a click path to get to a particular document. The format will look like this:
 
